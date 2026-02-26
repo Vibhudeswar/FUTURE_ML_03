@@ -1,0 +1,48 @@
+======================================================================
+  RESUME ANALYSIS REPORT — DETAILED TEXT VERSION
+======================================================================
+  File        : VIBHU'S PERFECT ATS RESUME.pdf
+  Experience  : ~0 year(s)
+  Education   : Not detected
+  Skills Found: 26 skills
+
+  BEST MATCH  : Data Analyst
+  Grade       : F
+  Score       : 29.0%   Not Recommended
+
+  FACTOR BREAKDOWN:
+    TF-IDF Similarity  (30%) : 4.8%
+    Skill Match        (35%) : 31.6%
+    Category Coverage  (15%) : 83.3%
+    Experience Score   (12%) : 0.0%
+    Education Score     (8%) : 50.0%
+
+  MATCHED SKILLS (6):
+    matplotlib, numpy, pandas, python, regression, sql
+
+  MISSING SKILLS (13) — Learn these to boost your score:
+    a/b testing, agile, communication, excel, hypothesis testing, looker, mysql, postgresql, power bi, r, seaborn, statistics, tableau
+
+  BONUS SKILLS (20) — Extra skills beyond JD requirements:
+    azure, classification, css, fastapi, flask, generative ai, github, html, java, jupyter, keras, llm, machine learning, model evaluation, oracle, pytorch, react, scikit-learn, sqlite, tensorflow
+
+  ALL ROLES RANKED:
+    #1 Data Analyst                  29.0%   Not Recommended
+    #2 Data Scientist                28.2%   Not Recommended
+    #3 Machine Learning Engineer     25.9%   Not Recommended
+    #4 Full Stack Developer          24.9%   Not Recommended
+    #5 Software Engineer             22.9%   Not Recommended
+    #6 DevOps Engineer               18.1%   Not Recommended
+
+  SKILL IMPROVEMENT RECOMMENDATIONS:
+     1. Learn / highlight: a/b testing
+     2. Learn / highlight: agile
+     3. Learn / highlight: communication
+     4. Learn / highlight: excel
+     5. Learn / highlight: hypothesis testing
+     6. Learn / highlight: looker
+     7. Learn / highlight: mysql
+     8. Learn / highlight: postgresql
+     9. Learn / highlight: power bi
+    10. Learn / highlight: r
+======================================================================
